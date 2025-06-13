@@ -31,6 +31,7 @@ Backend API: http://localhost:3000
 
 MongoDB: Accessible within Docker network at mongo:27017
 
+TO stop and remove images and container used docker-compose down -v
 
 🗂️ Project Structure
 node-mongo-docker-compose/
