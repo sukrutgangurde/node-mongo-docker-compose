@@ -1,0 +1,27 @@
+# Node modules (don't commit node_modules)
+node_modules/
+node_modules/y
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment files (for secrets like DB_URL, API_KEY, etc.)
+.env
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+bower_components/
+
+# Ignore build output (if you use any build tool)
+dist/
+build/
+
+# Ignore Docker-related artifacts
+docker-compose.override.yml
+node_modules/
